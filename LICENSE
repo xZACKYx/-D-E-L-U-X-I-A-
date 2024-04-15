@@ -1,24 +1,73 @@
-This is free and unencumbered software released into the public domain.
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+   TÉRMINOS Y CONDICIONES PARA USO, REPRODUCCIÓN Y DISTRIBUCIÓN
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+1. Definiciones.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+   "Licencia" significará los términos y condiciones para uso, reproducción y distribución según lo definido en las Secciones 1 a 9 de este documento.
 
-For more information, please refer to <https://unlicense.org>
+   "Licenciante" significará el propietario del derecho de autor o la entidad autorizada por el propietario del derecho de autor que otorga la Licencia.
+
+   "Entidad Legal" significará la unión de la entidad actuante y todas las demás entidades que controlan, son controladas por, o están bajo control común con esa entidad. A los efectos de esta definición, "control" significa (i) el poder, directo o indirecto, para causar la dirección o gestión de tal entidad, ya sea por contrato o de otro modo, o (ii) la propiedad de cincuenta por ciento (50%) o más de las acciones en circulación, o (iii) la propiedad beneficiaria de tal entidad.
+
+   "Usted" (o "Su") significará un individuo o Entidad Legal que ejerce los permisos otorgados por esta Licencia.
+
+   "Forma de Origen" significará la forma preferida para realizar modificaciones, incluyendo pero no limitándose al código fuente del software, la fuente de documentación y los archivos de configuración.
+
+   "Forma de Objeto" significará cualquier forma que resulte de la transformación mecánica o traducción de una Forma de Origen, incluyendo pero no limitándose al código objeto compilado, la documentación generada y las conversiones a otros tipos de medios.
+
+   "Obra" significará la obra de autoría, ya sea en Forma de Origen o de Objeto, puesta a disposición bajo la Licencia, como lo indica un aviso de derecho de autor que se incluye o adjunta a la obra (se proporciona un ejemplo en el Apéndice a continuación).
+
+   "Obras Derivadas" significará cualquier obra, ya sea en Forma de Origen o de Objeto, que se base en (o derive de) la Obra y para la cual las revisiones editoriales, anotaciones, elaboraciones u otras modificaciones representen, en su totalidad, una obra original de autoría. A los efectos de esta Licencia, las Obras Derivadas no incluirán obras que permanezcan separables de, o simplemente se vinculen (o se liguen por nombre) a las interfaces de, la Obra y las Obras Derivadas de ésta.
+
+   "Contribución" significará cualquier obra de autoría, incluida la versión original de la Obra y cualquier modificación o adición a esa Obra o a sus Obras Derivadas, que sea intencionalmente presentada al Licenciante para su inclusión en la Obra por parte del titular del derecho de autor o por una persona física o Entidad Legal autorizada para presentar en nombre del titular del derecho de autor. A los efectos de esta definición, "presentada" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluida pero no limitada a la comunicación en listas de correo electrónico electrónicas, sistemas de control de código fuente y sistemas de seguimiento de problemas que son gestionados por, o en nombre de, el Licenciante con el propósito de discutir y mejorar la Obra, pero excluyendo la comunicación que esté marcada conspicuamente o designada de otra manera por escrito por el titular del derecho de autor como "No una Contribución".
+
+   "Contribuyente" significará el Licenciante y cualquier persona física o Entidad Legal en nombre de la cual el Licenciante haya recibido una Contribución y que posteriormente haya sido incorporada dentro de la Obra.
+
+2. Concesión de Licencia de Derecho de Autor. Sujeto a los términos y condiciones de esta Licencia, cada Contribuyente por la presente otorga a Usted una licencia perpetua, mundial, no exclusiva, sin cargo, libre de regalías, irrevocable de derechos de autor para reproducir, preparar Obras Derivadas, exhibir públicamente, realizar públicamente, sublicenciar y distribuir la Obra y tales Obras Derivadas en Forma de Origen o de Objeto.
+
+3. Concesión de Licencia de Patente. Sujeto a los términos y condiciones de esta Licencia, cada Contribuyente por la presente otorga a Usted una licencia perpetua, mundial, no exclusiva, sin cargo, libre de regalías, irrevocable (excepto según se establece en esta sección) de patente para hacer, hacer que se haga, usar, ofrecer para la venta, vender, importar y transferir de otra manera la Obra, cuando dicha licencia se aplique únicamente a aquellas reclamaciones de patente licenciables por dicho Contribuyente que sean necesariamente infringidas por su(s) Contribución(es) sola(s) o en combinación con la Obra a la(s) que se haya(n) presentado dicha(s) Contribución(es). Si Usted inicia una acción judicial por patentes contra cualquier entidad (incluyendo una contrademanda o demanda de reconvención en un litigio) alegando que la Obra o una Contribución incorporada dentro de la Obra constituye infracción directa o contributiva de patentes, entonces cualquier licencia de patente otorgada a Usted bajo esta Licencia para esa Obra terminará en la fecha en que se presente dicha acción
+
+ judicial.
+
+4. Redistribución. Usted puede reproducir y distribuir copias de la Obra o de sus Obras Derivadas en cualquier medio, con o sin modificaciones, y en Forma de Origen o de Objeto, siempre que cumpla con las siguientes condiciones:
+
+   (a) Debe proporcionar a cualquier otro destinatario de la Obra o de las Obras Derivadas una copia de esta Licencia; y
+
+   (b) Debe hacer que cualquier archivo modificado lleve avisos prominentes indicando que usted ha cambiado los archivos; y
+
+   (c) Debe conservar, en la forma de Origen de cualquier Obra Derivada que distribuya, todos los avisos de derecho de autor, patente, marca registrada y atribución de la forma de Origen de la Obra, excluyendo aquellos avisos que no se refieran a ninguna parte de las Obras Derivadas; y
+
+   (d) Si la Obra incluye un archivo de texto "AVISO" como parte de su distribución, entonces cualquier Obra Derivada que usted distribuya debe incluir una copia legible de los avisos de atribución contenidos dentro de dicho archivo "AVISO", excluyendo aquellos avisos que no se refieran a ninguna parte de las Obras Derivadas, en al menos uno de los siguientes lugares: dentro de un archivo de texto "AVISO" distribuido como parte de las Obras Derivadas; dentro de la forma de Origen o documentación, si se proporcionan junto con las Obras Derivadas; o, dentro de una pantalla generada por las Obras Derivadas, si y donde normalmente aparecen dichos avisos de terceros. El contenido del archivo "AVISO" es únicamente con fines informativos y no modifica la Licencia. Usted puede agregar sus propios avisos de atribución dentro de las Obras Derivadas que distribuya, junto con o como un complemento al texto del AVISO de la Obra, siempre que dichos avisos de atribución adicionales no puedan interpretarse como modificando la Licencia.
+
+   Usted puede agregar su propia declaración de derecho de autor a sus modificaciones y puede proporcionar términos y condiciones de licencia adicionales o diferentes para el uso, reproducción o distribución de sus modificaciones, o para cualquier Obra Derivada en su conjunto, siempre que su uso, reproducción y distribución de la Obra cumpla de otro modo con las condiciones establecidas en esta Licencia.
+
+5. Presentación de Contribuciones. A menos que usted declare explícitamente lo contrario, cualquier Contribución presentada intencionalmente para su inclusión en la Obra por usted al Licenciante estará sujeta a los términos y condiciones de esta Licencia, sin términos o condiciones adicionales. No obstante lo anterior, nada en este documento reemplazará o modificará los términos de cualquier acuerdo de licencia separado que usted pueda haber celebrado con el Licenciante con respecto a dichas Contribuciones.
+
+6. Marcas Comerciales. Esta Licencia no otorga permiso para usar los nombres comerciales, marcas comerciales, marcas de servicio o nombres de productos del Licenciante, excepto según sea necesario para un uso razonable y habitual para describir el origen de la Obra y reproducir el contenido del archivo "AVISO".
+
+7. Renuncia de Garantía. A menos que lo exija la ley aplicable o se acuerde por escrito, el Licenciante proporciona la Obra (y cada Contribuyente proporciona sus Contribuciones) en una base "TAL CUAL", SIN GARANTÍAS O CONDICIONES DE NINGÚN TIPO, ya sean expresas o implícitas, incluyendo, sin limitación, cualquier garantía o condición de TÍTULO, NO INFRACCIÓN, COMERCIABILIDAD o ADECUACIÓN PARA UN PROPÓSITO PARTICULAR. Usted es el único responsable de determinar la idoneidad de usar o redistribuir la Obra y asume cualquier riesgo asociado con su ejercicio de permisos bajo esta Licencia.
+
+8. Limitación de Responsabilidad. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato o de otro modo, a menos que lo exija la ley aplicable (como actos deliberados y gravemente negligentes) o se acuerde por escrito, ningún Contribuyente será responsable ante Usted por daños, incluidos los daños directos, indirectos, especiales, incidentales o consecuentes de cualquier naturaleza que surjan como resultado de esta Licencia o del uso o la imposibilidad de uso de la Obra (incluidos, entre otros, los daños por pérdida de buena voluntad, interrupción del trabajo, falla o mal funcionamiento del equipo informático, o cualquier daño o pérdida comercial), incluso si dicho Contribuyente ha sido informado de la posibilidad de tales daños.
+
+9. Aceptación de Garantía o Responsabilidad Adicional. Al redistribuir la Obra o sus Obras Derivadas, Usted puede optar por ofrecer, y cobrar un cargo por, la aceptación de soporte, garantía, indemnización u otras obligaciones y/o derechos consistentes con esta Licencia. Sin embargo, al aceptar dichas obligaciones, Usted puede actuar solo en su propio nombre y bajo su única responsabilidad, no en nombre de ningún otro Contribuyente, y solo si acepta indemnizar, defender y eximir de responsabilidad a cada Contribuyente por cualquier responsabilidad incurrida o reclamaciones presentadas contra dicho Contribuyente por motivo de su aceptación de cualquier garantía o responsabilidad adicional.
+
+FIN DE LOS TÉRMINOS Y CONDICIONES.
+
+Derechos de autor [2024] [Rodrigo_Zacky]
+
+Licenciado bajo la Licencia Apache, Versión 2.0 (la "Licencia");
+no puede usar este archivo excepto en cumplimiento con la Licencia.
+Puede obtener una copia de la Licencia en
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+A menos que lo exija la ley aplicable o se acuerde por escrito, el software
+
+
+distribuido bajo la Licencia se distribuye bajo una base "TAL CUAL",
+SIN GARANTÍAS O CONDICIONES DE NINGÚN TIPO, ya sean expresas o implícitas.
+Consulte la Licencia para conocer los permisos y limitaciones específicos
+bajo la Licencia.
